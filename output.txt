@@ -1,0 +1,4686 @@
+
+Example output of the program
+
+
+MASTER LINKED LIST:
+
+        => ab
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => abacı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => aç
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => açı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => açık
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => açıkla
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => açıkladı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => açıklama
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => açın
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => açtı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => ad
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => adam
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+            2-) Category: health
+                id:1.txt        length:403      count:2
+
+            3-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => adet
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:2
+
+
+
+        => adı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => adlı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => ahlak
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => aile
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => aktar
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => al
+           Detected at 5 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+            3-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            4-) Category: magazin
+                id:2.txt        length:236      count:2
+
+            5-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => alarak
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => aleyhi
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => alın
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => alma
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => alt
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => amaç
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+            2-) Category: health
+                id:1.txt        length:403      count:2
+
+
+
+        => an
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => ancak
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => ankara
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => anlaşma
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => antalya
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => ara
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:2
+
+            2-) Category: magazin
+                id:2.txt        length:236      count:1
+
+            3-) Category: magazin
+                id:5.txt        length:186      count:2
+
+
+
+        => arka
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => art
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => artır
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => artış
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => aslan
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => aşık
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => aşk
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => at
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => avantaj
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => avrupa
+           Detected at 5 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:4.txt        length:176      count:2
+
+            3-) Category: econ
+                id:6.txt        length:358      count:2
+
+            4-) Category: health
+                id:1.txt        length:403      count:1
+
+            5-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => avukat
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => ay
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:2
+
+            3-) Category: health
+                id:1.txt        length:403      count:1
+
+            4-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => bağ
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => bağlı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => bakan
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => bakanlık
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: health
+                id:2.txt        length:276      count:1
+
+            3-) Category: health
+                id:5.txt        length:532      count:2
+
+            4-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => bara
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => baran
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => basın
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => baş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:2
+
+
+
+        => başka
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => başkan
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: econ
+                id:3.txt        length:593      count:1
+
+            3-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => başla
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => başladı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => başladık
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => başlat
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => başlık
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => başrol
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:3.txt        length:197      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => bazı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:2
+
+
+
+        => bekle
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => bela
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => belirle
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => belirt
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:1.txt        length:403      count:1
+
+            3-) Category: health
+                id:3.txt        length:317      count:1
+
+            4-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => bernardı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => bil
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => bildir
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => bilim
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:2
+
+            2-) Category: health
+                id:4.txt        length:179      count:2
+
+            3-) Category: health
+                id:7.txt        length:187      count:2
+
+
+
+        => bin
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:2
+
+
+
+        => bingöl
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => bir
+           Detected at 9 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:1
+
+            3-) Category: health
+                id:1.txt        length:403      count:1
+
+            4-) Category: health
+                id:4.txt        length:179      count:2
+
+            5-) Category: health
+                id:7.txt        length:187      count:2
+
+            6-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            7-) Category: magazin
+                id:2.txt        length:236      count:1
+
+            8-) Category: magazin
+                id:3.txt        length:197      count:1
+
+            9-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => birçok
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => birinci
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => birlik
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:2
+
+            2-) Category: health
+                id:3.txt        length:317      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => biyoetik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => biz
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => boyut
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => boz
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => böl
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => böyle
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => bu
+           Detected at 7 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:2
+
+            3-) Category: health
+                id:1.txt        length:403      count:1
+
+            4-) Category: health
+                id:5.txt        length:532      count:2
+
+            5-) Category: health
+                id:6.txt        length:185      count:1
+
+            6-) Category: health
+                id:7.txt        length:187      count:1
+
+            7-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => bunlar
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => burcu
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => bülent
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => bürokrat
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => büyük
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:6
+
+            2-) Category: econ
+                id:5.txt        length:269      count:2
+
+            3-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => canlan
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => cd
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:2
+
+            2-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => cell
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => ceza
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => ciddi
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => çalış
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: econ
+                id:4.txt        length:176      count:1
+
+            3-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => çalışma
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+            2-) Category: health
+                id:7.txt        length:187      count:2
+
+
+
+        => çalışmas
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => çek
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => çekim
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => çevre
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => çıkar
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => çırak
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => çok
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:1
+
+            3-) Category: health
+                id:7.txt        length:187      count:1
+
+            4-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => da
+           Detected at 9 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:2.txt        length:279      count:1
+
+            3-) Category: econ
+                id:3.txt        length:593      count:2
+
+            4-) Category: econ
+                id:5.txt        length:269      count:1
+
+            5-) Category: econ
+                id:6.txt        length:358      count:2
+
+            6-) Category: health
+                id:6.txt        length:185      count:1
+
+            7-) Category: health
+                id:7.txt        length:187      count:1
+
+            8-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            9-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => dah
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => daha
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => dav
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:2
+
+
+
+        => dava
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:2
+
+            2-) Category: health
+                id:6.txt        length:185      count:2
+
+
+
+        => davası
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => davet
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => de
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+            2-) Category: health
+                id:7.txt        length:187      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => değerlendir
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => değil
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+            2-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => değin
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => değiş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => değiştir
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => deli
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => demirder
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:2
+
+
+
+        => deniz
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:2
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => depo
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:3
+
+
+
+        => depresyon
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => dernek
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => destek
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => dev
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:2
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => devam
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+            2-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => devlet
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => dışı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => dikkat
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => dila
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => dizi
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => doğru
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => doğrultusu
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => dönem
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => dönüş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => düşün
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => düzen
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => düzenle
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => ebat
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => ecza
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:3
+
+
+
+        => edecek
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => edil
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:2
+
+
+
+        => ediyor
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => eğitim
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => ekra
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => ekran
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:7
+
+            2-) Category: econ
+                id:5.txt        length:269      count:2
+
+
+
+        => elektronik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => eleman
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => eleştir
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => elmas
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:2
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => embriyo
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => en
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:3.txt        length:317      count:1
+
+            3-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => enstitüsü
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => ersoy
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => eser
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => eski
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => et
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => etik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => etki
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => etme
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => ettik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => ev
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => evlilik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => faik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => fakir
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => farklı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => fatura
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => fikir
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => film
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => filme
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => firma
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => firmas
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => fiyat
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:3.txt        length:317      count:2
+
+            3-) Category: health
+                id:5.txt        length:532      count:5
+
+
+
+        => futbol
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => gece
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => gecesi
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => geç
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => gel
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:2
+
+
+
+        => gelişme
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => genç
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => genel
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => genetik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => geniş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => gerçek
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+            2-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => gerçekleş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => gerek
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:2
+
+            2-) Category: health
+                id:5.txt        length:532      count:2
+
+            3-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => gergin
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => gerginlik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => gernigo
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => gibi
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => gideril
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => girdi
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => gizli
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => global
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => gök
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => görev
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:2
+
+            2-) Category: health
+                id:6.txt        length:185      count:2
+
+
+
+        => göz
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => group
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => grup
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:1.txt        length:403      count:2
+
+
+
+        => güçlü
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => gün
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:2
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => gürses
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => hak
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:2.txt        length:279      count:3
+
+            3-) Category: econ
+                id:4.txt        length:176      count:1
+
+            4-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => hanım
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => hapis
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => haven
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => hayat
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => hazırlık
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => hazira
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => haziran
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+            2-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => hedef
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => her
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => husus
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => hücre
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => hükümet
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => iade
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => iç
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => için
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+            2-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => idare
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => iddia
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => ifade
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => ihal
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:2
+
+
+
+        => ihale
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => il
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+            3-) Category: health
+                id:3.txt        length:317      count:1
+
+            4-) Category: health
+                id:5.txt        length:532      count:4
+
+
+
+        => ilaç
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:5
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => ile
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => ileri
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+            2-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => ilgi
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:1
+
+            3-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => ilişki
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => ilk
+           Detected at 14 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:2.txt        length:279      count:1
+
+            3-) Category: econ
+                id:4.txt        length:176      count:1
+
+            4-) Category: econ
+                id:6.txt        length:358      count:1
+
+            5-) Category: health
+                id:1.txt        length:403      count:2
+
+            6-) Category: health
+                id:2.txt        length:276      count:1
+
+            7-) Category: health
+                id:3.txt        length:317      count:1
+
+            8-) Category: health
+                id:4.txt        length:179      count:1
+
+            9-) Category: health
+                id:5.txt        length:532      count:1
+
+            10-) Category: magazin
+                id:1.txt        length:271      count:2
+
+            11-) Category: magazin
+                id:2.txt        length:236      count:1
+
+            12-) Category: magazin
+                id:3.txt        length:197      count:1
+
+            13-) Category: magazin
+                id:4.txt        length:402      count:1
+
+            14-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => ilr
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => imalat
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => imalatçı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:3
+
+
+
+        => inanır
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => incele
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => İngiliz
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:3
+
+
+
+        => İngiltere
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => insan
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:2
+
+            2-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => is
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => ise
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => isim
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:2
+
+
+
+        => istifa
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => iş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => işçi
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => işkol
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:2.txt        length:279      count:2
+
+
+
+        => ivme
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => izin
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => izni
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => kaçın
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => kadir
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => kalınama
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => kalp
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => kampanya
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:2
+
+
+
+        => kamu
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => kamuoyu
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:2
+
+
+
+        => kanal
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => kanun
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => kara
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => karan
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:2
+
+
+
+        => karar
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => kararname
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => karlı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => karşı
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => katıl
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => kay
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => kaydet
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => kayıtsız
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => kaynarca
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => kazan
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => kazandı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => kez
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:2
+
+
+
+        => kır
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => klon
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:3
+
+            2-) Category: health
+                id:4.txt        length:179      count:2
+
+            3-) Category: health
+                id:7.txt        length:187      count:2
+
+
+
+        => konfederasyon
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => konu
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => konus
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => konuş
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:2
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => kök
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => körezlioğlu
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:2
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => kötü
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => kullan
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => kullanılabilecek
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => kurçen
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => kurul
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => kurum
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:2
+
+
+
+        => kuyumcu
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => lira
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => livanel
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+            2-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => livaneli
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:3
+
+
+
+        => mağduriyet
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => mahkeme
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => manevi
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => masraf
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => mesaj
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => meslek
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => milyar
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => miodragı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => muazzez
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => murat
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => müdahale
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => müren
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => müslüm
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => müvekkil
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => naz
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:2
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => ne
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:2
+
+            2-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => neden
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => newcastle
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => niyet
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => novartis
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:4
+
+
+
+        => ocak
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => oğlu
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => oktay
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => ol
+           Detected at 6 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: econ
+                id:3.txt        length:593      count:1
+
+            3-) Category: econ
+                id:6.txt        length:358      count:1
+
+            4-) Category: health
+                id:3.txt        length:317      count:2
+
+            5-) Category: health
+                id:7.txt        length:187      count:1
+
+            6-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => ola
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => olan
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => olarak
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:3
+
+
+
+        => oldu
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => olduk
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => olimpiyat
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => olma
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => olsun
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => olumlu
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => olursa
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => oluş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => on
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => oran
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => organ
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => organizasyon
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => orma
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => orman
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:2
+
+            2-) Category: econ
+                id:2.txt        length:279      count:1
+
+            3-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => oyun
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => ödeme
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => ön
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => önal
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => önle
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => önyargı
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => örgüt
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:2
+
+
+
+        => örgütlenme
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => özcan
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:2
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => özellik
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => özgür
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => paha
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => paralel
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => pay
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => paylaş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => pazar
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => problem
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => profilo
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => proje
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:1
+
+            3-) Category: magazin
+                id:2.txt        length:236      count:3
+
+
+
+        => projeksiyon
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:2
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => rağbet
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => rağmen
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => renkli
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => rol
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => sadeç
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => saf
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => sağla
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+            2-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => sağlık
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:2
+
+            2-) Category: health
+                id:3.txt        length:317      count:1
+
+            3-) Category: health
+                id:5.txt        length:532      count:2
+
+
+
+        => sahne
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:2
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:2
+
+
+
+        => sanat
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => sanatçı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => saraylı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => sat
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:2
+
+
+
+        => satıl
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => satın
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => satış
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:2
+
+            3-) Category: health
+                id:3.txt        length:317      count:1
+
+            4-) Category: health
+                id:5.txt        length:532      count:5
+
+
+
+        => savun
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => say
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => seçil
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => sek
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => senarist
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => senaryo
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => sendika
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => sessiz
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => set
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => sevda
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => seviye
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => slogan
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => sok
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => son
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => sonuç
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => sor
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:2
+
+
+
+        => söyle
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+            2-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => söz
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => sözleşme
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => spor
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => ssk
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:2
+
+            2-) Category: health
+                id:5.txt        length:532      count:3
+
+
+
+        => start
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => stem
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => stoykoviç
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => sür
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => süre
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => süreç
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => sürek
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+
+
+        => sürer
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => sürüle
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => şampiyona
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => şarkı
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:4
+
+            2-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => şey
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => şoray
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => şu
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => şükri
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => talep
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => tam
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => tanış
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => taraf
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => tarih
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+            2-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => tartış
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+            2-) Category: health
+                id:4.txt        length:179      count:1
+
+            3-) Category: health
+                id:7.txt        length:187      count:1
+
+
+
+        => tartışma
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => tasarım
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => taşı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => tazminat
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:2
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => tedavi
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => teklif
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => topla
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => toplantı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => tüketici
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+
+
+        => tüm
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => türk
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:2.txt        length:279      count:3
+
+
+
+        => türkan
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => türkiye
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:4.txt        length:176      count:2
+
+            3-) Category: econ
+                id:6.txt        length:358      count:3
+
+            4-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => türkü
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => tv
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:6
+
+            2-) Category: econ
+                id:5.txt        length:269      count:3
+
+
+
+        => tvn
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => uğra
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => uğratma
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => ulaş
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:4.txt        length:176      count:1
+
+
+
+        => uluslararası
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+
+
+        => unutulmaz
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => uzun
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:1
+
+
+
+        => üç
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: econ
+                id:5.txt        length:269      count:1
+
+            3-) Category: econ
+                id:6.txt        length:358      count:2
+
+            4-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => üniversitesi
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => ünlü
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:2
+
+            2-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => üre
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => üret
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => ürün
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => üst
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => üyelik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => üzere
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => üzeri
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => üzücü
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => var
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => ve
+           Detected at 16 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:2.txt        length:279      count:2
+
+            3-) Category: econ
+                id:3.txt        length:593      count:4
+
+            4-) Category: econ
+                id:4.txt        length:176      count:2
+
+            5-) Category: econ
+                id:5.txt        length:269      count:1
+
+            6-) Category: econ
+                id:6.txt        length:358      count:4
+
+            7-) Category: health
+                id:1.txt        length:403      count:2
+
+            8-) Category: health
+                id:2.txt        length:276      count:2
+
+            9-) Category: health
+                id:3.txt        length:317      count:4
+
+            10-) Category: health
+                id:4.txt        length:179      count:2
+
+            11-) Category: health
+                id:5.txt        length:532      count:3
+
+            12-) Category: health
+                id:6.txt        length:185      count:1
+
+            13-) Category: magazin
+                id:1.txt        length:271      count:3
+
+            14-) Category: magazin
+                id:3.txt        length:197      count:3
+
+            15-) Category: magazin
+                id:4.txt        length:402      count:2
+
+            16-) Category: magazin
+                id:5.txt        length:186      count:2
+
+
+
+        => ver
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:2
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => verdik
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => vurgula
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => ya
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => yabancı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => yakın
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => yaklaşık
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => yana
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => yanlı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => yap
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:5.txt        length:269      count:1
+
+            2-) Category: health
+                id:1.txt        length:403      count:1
+
+            3-) Category: health
+                id:3.txt        length:317      count:1
+
+            4-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => yaptık
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => yardıcısı
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+
+
+        => yasak
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:2
+
+            2-) Category: health
+                id:4.txt        length:179      count:1
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => yasal
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => yaşa
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+            2-) Category: econ
+                id:2.txt        length:279      count:2
+
+            3-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => yaşama
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => yavaş
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:4.txt        length:179      count:1
+
+
+
+        => yavuz
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => yayın
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:2
+
+
+
+        => yaz
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => yazı
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:2.txt        length:279      count:1
+
+            2-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => yer
+           Detected at 3 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+            2-) Category: magazin
+                id:2.txt        length:236      count:2
+
+            3-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => yerli
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => yık
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+
+
+        => yıl
+           Detected at 4 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:1
+
+            2-) Category: health
+                id:1.txt        length:403      count:1
+
+            3-) Category: health
+                id:2.txt        length:276      count:1
+
+            4-) Category: magazin
+                id:2.txt        length:236      count:2
+
+
+
+        => yıldız
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: health
+                id:2.txt        length:276      count:2
+
+            2-) Category: health
+                id:6.txt        length:185      count:1
+
+
+
+        => yiğit
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => yorum
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => yönet
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+            2-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => yönetim
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:1.txt        length:403      count:1
+
+
+
+        => yusuf
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:3.txt        length:197      count:1
+
+
+
+        => yük
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => yüksek
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:3.txt        length:317      count:1
+
+
+
+        => yürürlük
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => yürüt
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => yüz
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:3.txt        length:593      count:2
+
+
+
+        => zarar
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: health
+                id:5.txt        length:532      count:1
+
+
+
+        => zeki
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:5.txt        length:186      count:1
+
+
+
+        => zengin
+           Detected at 2 files!
+        ------------------------------------------------
+            1-) Category: econ
+                id:6.txt        length:358      count:1
+
+            2-) Category: magazin
+                id:4.txt        length:402      count:1
+
+
+
+        => zor
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:1.txt        length:271      count:1
+
+
+
+        => zorla
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: econ
+                id:1.txt        length:208      count:1
+
+
+
+        => zülfü
+           Detected at 1 file!
+        ------------------------------------------------
+            1-) Category: magazin
+                id:2.txt        length:236      count:3
+
+
+
+
+DISCRIMINATING WORDS:
+
+        => Category Name: econ
+           word:  ekran
+           count:  9
+
+           word:  olarak
+           count:  3
+
+           word:  projeksiyon
+           count:  3
+
+           word:  türk
+           count:  4
+
+           word:  tv
+           count:  9
+
+
+        => Category Name: health
+           word:  bilim
+           count:  6
+
+           word:  ilaç
+           count:  6
+
+           word:  klon
+           count:  7
+
+           word:  sağlık
+           count:  5
+
+           word:  ssk
+           count:  5
+
+
+        => Category Name: magazin
+           word:  deniz
+           count:  4
+
+           word:  elmas
+           count:  4
+
+           word:  sahne
+           count:  4
+
+           word:  şarkı
+           count:  5
+
+           word:  zülfü
+           count:  3
+
+
+STOP WORDS:
+
+           word:  bir
+           count:  12
+
+           word:  da
+           count:  11
+
+           word:  ilk
+           count:  16
+
+           word:  tv
+           count:  9
+
+           word:  ve
+           count:  38
