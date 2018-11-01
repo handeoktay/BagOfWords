@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/Desktop/BagOfWords/main.c
+stdio.h
+-
+dirent.h
+-
+string.h
+-
+locale.h
+-
+malloc.h
+-
+conio.h
+-
+

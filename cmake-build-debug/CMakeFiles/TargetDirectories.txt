@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/BagOfWords/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus/Desktop/BagOfWords/cmake-build-debug/CMakeFiles/BagOfWords.dir
+C:/Users/Asus/Desktop/BagOfWords/cmake-build-debug/CMakeFiles/edit_cache.dir
